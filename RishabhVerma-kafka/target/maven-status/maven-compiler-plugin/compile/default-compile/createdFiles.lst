@@ -1,0 +1,6 @@
+com/knoldus/Serialization/UserDataSerializer.class
+com/knoldus/ProducerConsumer/ConsumerListener.class
+com/knoldus/ProducerConsumer/Producer.class
+com/knoldus/ProducerConsumer/Consumer.class
+com/knoldus/Model/UserModel.class
+com/knoldus/Serialization/UserDataDeSerializer.class
